@@ -24,8 +24,4 @@ print("line 12")
 
 
 
-#note jint bar sapce dan ga to function k ander ak or function bana sakte hain
-
-
-
-
+#note jint bar sapce dan ga to function k ander ak or function bana sakte hain 
